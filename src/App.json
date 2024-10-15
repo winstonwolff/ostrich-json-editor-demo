@@ -3,6 +3,6 @@
   "en": {
     "product_name": "Ostrich CMS",
     "title": "Ostrich CMS Demo",
-    "blurb": "Welcome to an incredible simple demo of #{product_name}. This demo shows how #{product_name} will help streamline your internal messaging and translation processes by giving more control over text in your products to the people responsible for copywriting."
+    "blurb": "Welcome to the incredibly simple demo of #{product_name}. This demo shows one #{product_name} will help streamline your internal messaging and translation processes by giving more control over text in your products to the people responsible for copywriting."
   }
 }

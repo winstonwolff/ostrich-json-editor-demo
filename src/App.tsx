@@ -1,4 +1,3 @@
-import React from 'react'
 import { LxProvider, useLexicon } from '@nitidbit/lexicon'
 import './App.css'
 
